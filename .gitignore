@@ -7,8 +7,12 @@ lib-cov
 *.pid
 *.gz
 
-pids
-logs
-results
+*.swp
+*.swo
+*.swn
+*.un~
+*~
+*.backup
 
+node_modules/
 npm-debug.log
